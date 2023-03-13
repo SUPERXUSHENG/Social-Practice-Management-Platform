@@ -37,5 +37,7 @@
 #### [14]张丙昕.互联网时代高职院校学生社会实践过程性评价机制研究[J].中国新通信,2022,24(22):87-89.
 #### [15]张涛.连云港市内河港口码头在江苏省率先使用港口设施数字化综合管理平台[J].大陆桥视野,2022(11):18.
 #### [16]李丹. 电力行业基建管理平台项目沟通管理研究[D].电子科技大学,2022.DOI:10.27005/d.cnki.gdzku.2022.005090.
-
+#### [17] Nettleton S ,  Green J . Thinking about Changing Mobility Practices: How a Social Practice Approach Can Help[M]. John Wiley & Sons, Ltd, 2014.
+#### [18] Nettleton, Sarah , and  J. Green . Thinking about Changing Mobility Practices: How a Social Practice Approach Can Help. John Wiley & Sons, Ltd, 2014.
+#### [19] Nettleton, S. , &  Green, J. . (2014). Thinking about Changing Mobility Practices: How a Social Practice Approach Can Help. John Wiley & Sons, Ltd.
 
