@@ -1,7 +1,8 @@
 #  <p align="center">某高校学生社会实践管理平台设计</p>
 #  <p align="center">Social-Practice-Management-Platform</p>
 
-<p align="center">![cca09a2d73d3800e3fe619adafee2be4](https://user-images.githubusercontent.com/120379003/225295768-61fa1691-2c1a-4273-b86f-9efd7d07c3b2.jpg)</p>
+<p align="center"> ![cca09a2d73d3800e3fe619adafee2be4](https://user-images.githubusercontent.com/120379003/225296178-743b2a76-57ca-4105-bb4c-90de9c788577.jpg)
+ </p>
 
 #### 本系统旨在高效地收集、整理学生们的社会实践的材料,并对作品进行打分，选出优秀的实践作品。
 #### 功能:
