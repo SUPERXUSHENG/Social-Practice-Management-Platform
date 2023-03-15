@@ -1,5 +1,8 @@
-#  某高校学生社会实践管理平台设计
-## 摘要
+#  <p align="center">某高校学生社会实践管理平台设计</p>
+#  <p align="center">Social-Practice-Management-Platform</p>
+![cca09a2d73d3800e3fe619adafee2be4](https://user-images.githubusercontent.com/120379003/225295768-61fa1691-2c1a-4273-b86f-9efd7d07c3b2.jpg)
+
+
 #### 本系统旨在高效地收集、整理学生们的社会实践的材料,并对作品进行打分，选出优秀的实践作品。
 #### 功能:
 #### 1.设计报名系统，收集报名信息。
@@ -11,7 +14,7 @@
 
 ### 关键词：社会实践
 
-# Social-Practice-Management-Platform
+
 ## Abstract
 #### This system aims to efficiently collect and organize students' social practice materials, score their works, and select excellent practice works.
 #### Function:
